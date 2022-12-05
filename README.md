@@ -12,6 +12,8 @@ Kelompok C03
 * [C](#C)
 
 ## A
+![image](https://user-images.githubusercontent.com/34309557/205583855-abee9b0b-cdb6-4fe4-992a-ac4b22322a27.png)
+
 ### Instalasi Server
 Berikut ini adalah isi dari script yang digunakan untuk melakukan instalasi yang sesuai pada Eden, WISE, Garden dan SSS.
 
